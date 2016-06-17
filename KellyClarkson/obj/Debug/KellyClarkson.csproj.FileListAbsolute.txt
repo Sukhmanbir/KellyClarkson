@@ -1,0 +1,18 @@
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.exe.config
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.csprojResolveAssemblyReference.cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.kellyClarksonForm.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.Properties.Resources.resources
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.csproj.GenerateResource.Cache
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.pdb
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.exe
+C:\Users\Sukhmanbir\Documents\Georgian Course Documents\Sem 3\Rapid Application development\Assignment 1\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.pdb
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.exe.config
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.exe
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.pdb
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.exe
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\bin\Debug\KellyClarkson.pdb
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.csprojResolveAssemblyReference.cache
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.kellyClarksonForm.resources
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.Properties.Resources.resources
+C:\Users\Sukhmanbir\Documents\Georgian_Course_Documents\Sem_3\Rapid_Application_development\KellyClarkson\KellyClarkson\obj\Debug\KellyClarkson.csproj.GenerateResource.Cache
